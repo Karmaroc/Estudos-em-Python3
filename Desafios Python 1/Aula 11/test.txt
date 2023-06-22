@@ -1,0 +1,9 @@
+Python
+JavaScript
+Java
+C#
+Node
+R
+Golang 
+Feito em C
+C++
