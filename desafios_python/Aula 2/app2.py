@@ -28,7 +28,7 @@ print(num1 ** num2)
 
 print("------------------")
 
-""""""
+
 print(abs(-15))
 print(pow(3, 3)) 
 print(max(1, 65, 16, -55))
